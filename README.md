@@ -1,6 +1,7 @@
-# Frontend Mentor - Intro section with dropdown navigation ![Design preview for the Intro section with dropdown navigation coding challenge](./src/assets/intro-section-with-dropdown-navigation-main/design/desktop-design.jpg)# Frontend Mentor - Intro section with dropdown navigation
+# Frontend Mentor - Intro section with dropdown navigation 
+(./src/assets/intro-section-with-dropdown-navigation-main/design/desktop-design.jpg)# Frontend Mentor - Intro section with dropdown navigation
 
-![Design preview for the Intro section with dropdown navigation coding challenge](./design/desktop-preview.jpg)
+![Design preview for the Intro section with dropdown navigation coding challenge](./src/assets/intro-section-with-dropdown-navigation-main/design/desktop-preview.jpg)
 
 ## Welcome! 👋
 
@@ -19,9 +20,6 @@ Users should be able to:
 - View the optimal layout for the content depending on their device's screen size
 - See hover states for all interactive elements on the page
 
-
-
-## My process
 
 ### Built with
 
