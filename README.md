@@ -1,5 +1,3 @@
-# Frontend Mentor - Intro section with dropdown navigation 
-(./src/assets/intro-section-with-dropdown-navigation-main/design/desktop-design.jpg)
 # Frontend Mentor - Intro section with dropdown navigation
 
 ![Design preview for the Intro section with dropdown navigation coding challenge](./src/assets/intro-section-with-dropdown-navigation-main/design/desktop-preview.jpg)
